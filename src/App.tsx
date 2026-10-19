@@ -910,24 +910,34 @@ export default function App() {
   }, [])
   return (
     <div className="portfolio-stage">
-      <aside className="portfolio-note">
+      <aside className="portfolio-note" lang="ru" aria-label="О превью приложения">
         <span className="portfolio-mark">
           <Dumbbell size={19} /> ASHEL GYM
         </span>
-        <h2>
-          Built for
-          <br />
-          your next rep.
-        </h2>
+        <h2>Создано для телефона</h2>
         <p>
-          A personal workout tracker.
-          <br />
-          Explore the mobile experience.
+          Для комфортного просмотра рекомендуем уменьшить масштаб браузера:
         </p>
+        <ul className="zoom-shortcuts">
+          <li><kbd>Ctrl</kbd> + колёсико мыши вниз</li>
+          <li>или <kbd>Ctrl</kbd> + <kbd>−</kbd></li>
+        </ul>
+        <p>
+          Это интерактивное превью — лишь приближённый вид реального приложения.
+          Некоторые функции упрощены, а данные демонстрационные.
+        </p>
+        <a
+          className="project-link"
+          href="https://github.com/7evenUp/ashel-gym"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Реальный проект на GitHub <ArrowRight size={15} />
+        </a>
         <div className="demo-badge">
-          <span /> Interactive demo
+          <span /> Интерактивное демо
         </div>
-        <p className="local-note">Sample data · Saved in your browser</p>
+        <p className="local-note">Изменения сохраняются в вашем браузере</p>
       </aside>
       <main className="phone" aria-label="Ashel Gym app preview">
         <div className="phone-speaker" aria-hidden="true" />

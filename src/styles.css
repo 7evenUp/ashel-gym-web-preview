@@ -204,6 +204,10 @@ svg {
   top: 50%;
   transform: translateY(-50%);
   max-width: 285px;
+  max-height: calc(100dvh - 64px);
+  overflow-y: auto;
+  padding: 4px;
+  scrollbar-width: thin;
 }
 .portfolio-mark {
   display: flex;
@@ -214,17 +218,50 @@ svg {
   color: #c3afd9;
 }
 .portfolio-note h2 {
-  font-size: 43px;
-  line-height: 1.16;
+  font-size: 27px;
+  line-height: 1.25;
   font-weight: 500;
-  letter-spacing: -1.6px;
-  margin: 32px 0 20px;
+  letter-spacing: -0.6px;
+  margin: 24px 0 16px;
   color: #eee7f5;
 }
 .portfolio-note p {
-  font-size: 14px;
+  font-size: 13px;
   line-height: 1.8;
   color: #9d94a9;
+}
+.zoom-shortcuts {
+  display: grid;
+  gap: 10px;
+  padding: 0;
+  margin: 16px 0 22px;
+  list-style: none;
+  color: #d4c7e4;
+  font-size: 13px;
+  line-height: 1.6;
+}
+.zoom-shortcuts kbd {
+  display: inline-block;
+  padding: 1px 7px;
+  border: 1px solid #63576f;
+  border-radius: 5px;
+  background: #2b2533;
+  color: #eee7f5;
+  font: inherit;
+}
+.project-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-top: 18px;
+  padding-block: 4px;
+  color: var(--primary);
+  font-size: 13px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.project-link:hover {
+  color: #eee7f5;
 }
 .demo-badge {
   display: flex;
