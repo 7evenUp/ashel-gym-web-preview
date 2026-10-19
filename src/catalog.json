@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "group": "back",
+    "name": "Deadlift",
+    "image": "images/exercises/back/deadlift1.png"
+  },
+  {
+    "id": 2,
+    "group": "back",
+    "name": "Wide-Grip Lat Pulldown",
+    "image": "images/exercises/back/wide_grip_lat_pulldown1.png"
+  },
+  {
+    "id": 3,
+    "group": "back",
+    "name": "Neutral-Grip Lat Pulldown",
+    "image": "images/exercises/back/neutral_grip_lat_pulldown1.png"
+  },
+  {
+    "id": 4,
+    "group": "back",
+    "name": "Barbell Row",
+    "image": "images/exercises/back/barbell_row1.png"
+  },
+  {
+    "id": 5,
+    "group": "back",
+    "name": "One-Arm Dumbbell Row",
+    "image": "images/exercises/back/one_arm_dumbbell_row1.png"
+  },
+  {
+    "id": 6,
+    "group": "back",
+    "name": "Cable Row",
+    "image": "images/exercises/back/cable_row1.png"
+  },
+  {
+    "id": 7,
+    "group": "back",
+    "name": "Lat Pullover",
+    "image": "images/exercises/back/lat_pullover1.png"
+  },
+  {
+    "id": 8,
+    "group": "back",
+    "name": "Seated Row",
+    "image": "images/exercises/back/seated_row.png"
+  },
+  {
+    "id": 9,
+    "group": "chest",
+    "name": "Bench Press",
+    "image": "images/exercises/chest/bench_press1.png"
+  },
+  {
+    "id": 10,
+    "group": "chest",
+    "name": "Incline Bench Press",
+    "image": "images/exercises/chest/incline_bench_press1.png"
+  },
+  {
+    "id": 11,
+    "group": "chest",
+    "name": "Dumbbell Press",
+    "image": "images/exercises/chest/dumbbell_press1.png"
+  },
+  {
+    "id": 12,
+    "group": "chest",
+    "name": "Pec Fly",
+    "image": "images/exercises/chest/pec_fly1.png"
+  },
+  {
+    "id": 13,
+    "group": "chest",
+    "name": "Machine Chest Press",
+    "image": "images/exercises/chest/machine_chest_press1.png"
+  },
+  {
+    "id": 14,
+    "group": "chest",
+    "name": "Chest Press",
+    "image": "images/exercises/chest/chest_press.png"
+  },
+  {
+    "id": 15,
+    "group": "biceps",
+    "name": "Barbell Curl",
+    "image": "images/exercises/biceps/barbell_curl1.png"
+  },
+  {
+    "id": 16,
+    "group": "biceps",
+    "name": "Dumbbell Curl",
+    "image": "images/exercises/biceps/dumbbell_curl1.png"
+  },
+  {
+    "id": 17,
+    "group": "biceps",
+    "name": "Dumbbell Preacher Curl",
+    "image": "images/exercises/biceps/dumbbell_preacher_curl1.png"
+  },
+  {
+    "id": 18,
+    "group": "biceps",
+    "name": "Dumbbell Incline Curl",
+    "image": "images/exercises/biceps/dumbbell_incline_curl1.png"
+  },
+  {
+    "id": 19,
+    "group": "biceps",
+    "name": "Machine Preacher Curl",
+    "image": "images/exercises/biceps/machine_preacher_curl1.png"
+  },
+  {
+    "id": 20,
+    "group": "biceps",
+    "name": "Hammer Preacher Curl",
+    "image": "images/exercises/biceps/hammer_preacher_curl1.png"
+  },
+  {
+    "id": 21,
+    "group": "biceps",
+    "name": "Faceaway Bayesian Cable Curl",
+    "image": "images/exercises/biceps/faceaway_bayesian_cable_curl1.png"
+  },
+  {
+    "id": 22,
+    "group": "triceps",
+    "name": "Triceps Pushdown",
+    "image": "images/exercises/triceps/triceps_pushdown1.png"
+  },
+  {
+    "id": 23,
+    "group": "triceps",
+    "name": "Overhead Cable Extension",
+    "image": "images/exercises/triceps/overhead_cable_extension1.png"
+  },
+  {
+    "id": 24,
+    "group": "triceps",
+    "name": "Dumbbell French Press",
+    "image": "images/exercises/triceps/db_french_press1.png"
+  },
+  {
+    "id": 25,
+    "group": "triceps",
+    "name": "Cable Triceps Kickback",
+    "image": "images/exercises/triceps/cable_kickback1.png"
+  },
+  {
+    "id": 26,
+    "group": "triceps",
+    "name": "Machine Dips",
+    "image": "images/exercises/triceps/machine_dips1.png"
+  },
+  {
+    "id": 27,
+    "group": "legs",
+    "name": "Squats",
+    "image": "images/exercises/legs/squats1.png"
+  },
+  {
+    "id": 28,
+    "group": "legs",
+    "name": "Smith Machine Squat",
+    "image": "images/exercises/legs/smith_machine_squat1.png"
+  },
+  {
+    "id": 29,
+    "group": "legs",
+    "name": "45 Degree Leg Press",
+    "image": "images/exercises/legs/degree_45_leg_press1.png"
+  },
+  {
+    "id": 30,
+    "group": "legs",
+    "name": "Leg Extension",
+    "image": "images/exercises/legs/leg_extension1.png"
+  },
+  {
+    "id": 31,
+    "group": "legs",
+    "name": "Romanian Deadlift",
+    "image": "images/exercises/legs/romanian_deadlift1.png"
+  },
+  {
+    "id": 32,
+    "group": "legs",
+    "name": "Seated Leg Curl",
+    "image": "images/exercises/legs/seated_leg_curl1.png"
+  },
+  {
+    "id": 33,
+    "group": "legs",
+    "name": "Hip Adductions",
+    "image": "images/exercises/legs/hip_adductions1.png"
+  },
+  {
+    "id": 34,
+    "group": "legs",
+    "name": "Hip Abductions",
+    "image": "images/exercises/legs/hip_abductions1.png"
+  },
+  {
+    "id": 35,
+    "group": "legs",
+    "name": "Barbell Hip Thrust",
+    "image": "images/exercises/legs/barbell_hip_thrust.png"
+  },
+  {
+    "id": 36,
+    "group": "legs",
+    "name": "Machine Squats",
+    "image": "images/exercises/legs/machine_squats.png"
+  },
+  {
+    "id": 37,
+    "group": "legs",
+    "name": "Prone Leg Curl",
+    "image": "images/exercises/legs/prone_leg_curl.png"
+  },
+  {
+    "id": 38,
+    "group": "shoulders",
+    "name": "Dumbbell Lateral Raise",
+    "image": "images/exercises/shoulders/db_lateral_raise1.png"
+  },
+  {
+    "id": 39,
+    "group": "shoulders",
+    "name": "Overhead Press",
+    "image": "images/exercises/shoulders/overhead_press1.png"
+  },
+  {
+    "id": 40,
+    "group": "shoulders",
+    "name": "Dumbbell Overhead Press",
+    "image": "images/exercises/shoulders/db_overhead_press1.png"
+  },
+  {
+    "id": 41,
+    "group": "shoulders",
+    "name": "Machine Shoulder Press",
+    "image": "images/exercises/shoulders/machine_shoulder_press1.png"
+  },
+  {
+    "id": 42,
+    "group": "shoulders",
+    "name": "Standing Machine Lateral Raise",
+    "image": "images/exercises/shoulders/standing_machine_lateral_raise1.png"
+  },
+  {
+    "id": 43,
+    "group": "shoulders",
+    "name": "Cable Lateral Raise",
+    "image": "images/exercises/shoulders/cable_lateral_raise1.png"
+  },
+  {
+    "id": 44,
+    "group": "shoulders",
+    "name": "Reverse Pec Dec",
+    "image": "images/exercises/shoulders/reverse_pec_dec1.png"
+  },
+  {
+    "id": 45,
+    "group": "shoulders",
+    "name": "Rope Face Pull",
+    "image": "images/exercises/shoulders/rope_face_pull1.png"
+  },
+  {
+    "id": 46,
+    "group": "shoulders",
+    "name": "Lateral Raise",
+    "image": "images/exercises/shoulders/lateral_raise.png"
+  }
+]
